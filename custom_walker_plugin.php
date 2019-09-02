@@ -11,7 +11,7 @@
  *
  * @package walker-section
  */
-
+if() {}
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 	}
